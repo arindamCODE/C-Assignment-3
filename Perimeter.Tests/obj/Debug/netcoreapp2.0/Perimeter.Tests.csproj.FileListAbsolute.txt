@@ -1,0 +1,15 @@
+c:\Users\Administrator\Desktop\C# Assignment 3\Perimeter.Tests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+c:\Users\Administrator\Desktop\C# Assignment 3\Perimeter.Tests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netstandard15.dll
+c:\Users\Administrator\Desktop\C# Assignment 3\Perimeter.Tests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netstandard15.dll
+c:\Users\Administrator\Desktop\C# Assignment 3\Perimeter.Tests\bin\Debug\netcoreapp2.0\Perimeter.Tests.deps.json
+c:\Users\Administrator\Desktop\C# Assignment 3\Perimeter.Tests\bin\Debug\netcoreapp2.0\Perimeter.Tests.runtimeconfig.json
+c:\Users\Administrator\Desktop\C# Assignment 3\Perimeter.Tests\bin\Debug\netcoreapp2.0\Perimeter.Tests.runtimeconfig.dev.json
+c:\Users\Administrator\Desktop\C# Assignment 3\Perimeter.Tests\bin\Debug\netcoreapp2.0\Perimeter.Tests.dll
+c:\Users\Administrator\Desktop\C# Assignment 3\Perimeter.Tests\bin\Debug\netcoreapp2.0\Perimeter.Tests.pdb
+c:\Users\Administrator\Desktop\C# Assignment 3\Perimeter.Tests\bin\Debug\netcoreapp2.0\PerimeterCal.dll
+c:\Users\Administrator\Desktop\C# Assignment 3\Perimeter.Tests\bin\Debug\netcoreapp2.0\PerimeterCal.pdb
+c:\Users\Administrator\Desktop\C# Assignment 3\Perimeter.Tests\obj\Debug\netcoreapp2.0\Perimeter.Tests.csproj.CoreCompileInputs.cache
+c:\Users\Administrator\Desktop\C# Assignment 3\Perimeter.Tests\obj\Debug\netcoreapp2.0\Perimeter.Tests.AssemblyInfoInputs.cache
+c:\Users\Administrator\Desktop\C# Assignment 3\Perimeter.Tests\obj\Debug\netcoreapp2.0\Perimeter.Tests.AssemblyInfo.cs
+c:\Users\Administrator\Desktop\C# Assignment 3\Perimeter.Tests\obj\Debug\netcoreapp2.0\Perimeter.Tests.dll
+c:\Users\Administrator\Desktop\C# Assignment 3\Perimeter.Tests\obj\Debug\netcoreapp2.0\Perimeter.Tests.pdb

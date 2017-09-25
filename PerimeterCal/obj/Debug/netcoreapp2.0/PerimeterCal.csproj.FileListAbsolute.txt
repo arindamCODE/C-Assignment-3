@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\C# Assignment 3\PerimeterCal\bin\Debug\netcoreapp2.0\PerimeterCal.deps.json
+C:\Users\Administrator\Desktop\C# Assignment 3\PerimeterCal\bin\Debug\netcoreapp2.0\PerimeterCal.runtimeconfig.json
+C:\Users\Administrator\Desktop\C# Assignment 3\PerimeterCal\bin\Debug\netcoreapp2.0\PerimeterCal.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\C# Assignment 3\PerimeterCal\bin\Debug\netcoreapp2.0\PerimeterCal.dll
+C:\Users\Administrator\Desktop\C# Assignment 3\PerimeterCal\bin\Debug\netcoreapp2.0\PerimeterCal.pdb
+C:\Users\Administrator\Desktop\C# Assignment 3\PerimeterCal\obj\Debug\netcoreapp2.0\PerimeterCal.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\C# Assignment 3\PerimeterCal\obj\Debug\netcoreapp2.0\PerimeterCal.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\C# Assignment 3\PerimeterCal\obj\Debug\netcoreapp2.0\PerimeterCal.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\C# Assignment 3\PerimeterCal\obj\Debug\netcoreapp2.0\PerimeterCal.dll
+C:\Users\Administrator\Desktop\C# Assignment 3\PerimeterCal\obj\Debug\netcoreapp2.0\PerimeterCal.pdb
