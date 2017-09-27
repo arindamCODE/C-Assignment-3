@@ -26,15 +26,21 @@ class Math
 
     public int CalculatePerimeter(int s1, int b, int s2)
     {
+        s1 = tp.Side1;
+        b = tp.Bas;
+        s2 = tp.Side2;
         return s1+b+s2;
     } 
 
     public int CalculatePerimeter(int l, int w)
     {
+        l = rp.Length;
+        w = rp.Width;
         return 2*(l+w);
     }
     public int CalculatePerimeter(int s)
     {
+        s = sp.Side;
         return 4*s;
     }
 }
